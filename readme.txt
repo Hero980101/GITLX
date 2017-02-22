@@ -1,1 +1,2 @@
-Hello,My name is HeroZhu.
+Git is a distributed version control system.
+Git is free software.
